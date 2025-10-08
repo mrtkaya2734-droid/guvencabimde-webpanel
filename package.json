@@ -2,8 +2,8 @@
   "name": "guvencabimde-webpanel",
   "version": "1.0.0",
   "private": true,
-  "engines": { "node": "22.x"  }
-    "node": "18.x"
+  "engines": {
+    "node": "22.x"
   },
   "dependencies": {
     "react": "18.2.0",
